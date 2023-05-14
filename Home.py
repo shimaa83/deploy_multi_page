@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("# Home")
+st.markdown("# Shareable Life | Enhancing Roommate Compatibility Detection through Machine Learning")
 st.sidebar.markdown("# Home")
 from PIL import Image
 
